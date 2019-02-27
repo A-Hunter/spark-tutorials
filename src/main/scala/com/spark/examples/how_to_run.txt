@@ -1,0 +1,4 @@
+1- move to df.scala
+    cd E:\GitHubRepositories\scala-tutorials\src\main\resources
+2- run spark-shell
+3- run :load df.scala
