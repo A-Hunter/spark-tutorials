@@ -2,3 +2,6 @@
     cd E:\GitHubRepositories\scala-tutorials\src\main\resources
 2- run spark-shell
 3- run :load df.scala
+
+In order to generate mock data, you can use the following website :
+    https://www.generatedata.com/
